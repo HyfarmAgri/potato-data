@@ -4928,9 +4928,9 @@
     },
     {
       "State": "assam",
-      "Maximum_Price": 1601,
-      "Current_Price": 1435,
-      "Minimum_Price": 1312
+      "Maximum_Price": 1584,
+      "Current_Price": 1424,
+      "Minimum_Price": 1305
     },
     {
       "State": "bihar",
@@ -4940,14 +4940,14 @@
     },
     {
       "State": "chandigarh",
-      "Maximum_Price": 450,
-      "Current_Price": 350,
+      "Maximum_Price": 500,
+      "Current_Price": 400,
       "Minimum_Price": 100
     },
     {
       "State": "chattisgarh",
       "Maximum_Price": 1200,
-      "Current_Price": 1060,
+      "Current_Price": 1100,
       "Minimum_Price": 960
     },
     {
@@ -4958,21 +4958,21 @@
     },
     {
       "State": "gujarat",
-      "Maximum_Price": 1283,
-      "Current_Price": 1084,
-      "Minimum_Price": 874
+      "Maximum_Price": 1309,
+      "Current_Price": 1094,
+      "Minimum_Price": 858
     },
     {
       "State": "haryana",
-      "Maximum_Price": 752,
-      "Current_Price": 637,
-      "Minimum_Price": 557
+      "Maximum_Price": 759,
+      "Current_Price": 639,
+      "Minimum_Price": 559
     },
     {
       "State": "himachal-pradesh",
-      "Maximum_Price": 1135,
-      "Current_Price": 964,
-      "Minimum_Price": 809
+      "Maximum_Price": 1163,
+      "Current_Price": 985,
+      "Minimum_Price": 821
     },
     {
       "State": "jharkhand",
@@ -4982,27 +4982,27 @@
     },
     {
       "State": "karnataka",
-      "Maximum_Price": 1844,
+      "Maximum_Price": 1840,
       "Current_Price": 1621,
-      "Minimum_Price": 1358
+      "Minimum_Price": 1333
     },
     {
       "State": "kerala",
-      "Maximum_Price": 3233,
-      "Current_Price": 3046,
-      "Minimum_Price": 2869
+      "Maximum_Price": 3261,
+      "Current_Price": 3072,
+      "Minimum_Price": 2892
     },
     {
       "State": "madhya-pradesh",
-      "Maximum_Price": 742,
-      "Current_Price": 675,
-      "Minimum_Price": 582
+      "Maximum_Price": 753,
+      "Current_Price": 676,
+      "Minimum_Price": 580
     },
     {
       "State": "maharashtra",
-      "Maximum_Price": 1374,
+      "Maximum_Price": 1373,
       "Current_Price": 1134,
-      "Minimum_Price": 899
+      "Minimum_Price": 902
     },
     {
       "State": "manipur",
@@ -5012,9 +5012,9 @@
     },
     {
       "State": "meghalaya",
-      "Maximum_Price": 2743,
-      "Current_Price": 2443,
-      "Minimum_Price": 2143
+      "Maximum_Price": 2729,
+      "Current_Price": 2429,
+      "Minimum_Price": 2129
     },
     {
       "State": "mizoram",
@@ -5030,21 +5030,21 @@
     },
     {
       "State": "odisha",
-      "Maximum_Price": 1537,
-      "Current_Price": 1416,
-      "Minimum_Price": 1308
+      "Maximum_Price": 1572,
+      "Current_Price": 1450,
+      "Minimum_Price": 1348
     },
     {
       "State": "punjab",
-      "Maximum_Price": 605,
-      "Current_Price": 563,
-      "Minimum_Price": 520
+      "Maximum_Price": 606,
+      "Current_Price": 564,
+      "Minimum_Price": 521
     },
     {
       "State": "rajasthan",
-      "Maximum_Price": 973,
-      "Current_Price": 855,
-      "Minimum_Price": 739
+      "Maximum_Price": 965,
+      "Current_Price": 848,
+      "Minimum_Price": 738
     },
     {
       "State": "tamil-nadu",
@@ -5054,19 +5054,19 @@
     },
     {
       "State": "telangana",
-      "Maximum_Price": 1444,
-      "Current_Price": 1266,
-      "Minimum_Price": 1025
+      "Maximum_Price": 1459,
+      "Current_Price": 1276,
+      "Minimum_Price": 1012
     },
     {
       "State": "tripura",
-      "Maximum_Price": 1651,
-      "Current_Price": 1524,
-      "Minimum_Price": 1417
+      "Maximum_Price": 1665,
+      "Current_Price": 1534,
+      "Minimum_Price": 1427
     },
     {
       "State": "uttar-pradesh",
-      "Maximum_Price": 703,
+      "Maximum_Price": 702,
       "Current_Price": 669,
       "Minimum_Price": 637
     },
@@ -5079,7 +5079,7 @@
     {
       "State": "west-bengal",
       "Maximum_Price": 802,
-      "Current_Price": 772,
+      "Current_Price": 773,
       "Minimum_Price": 741
     }
   ]
