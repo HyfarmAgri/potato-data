@@ -4928,9 +4928,9 @@
     },
     {
       "State": "assam",
-      "Maximum_Price": 1570,
-      "Current_Price": 1397,
-      "Minimum_Price": 1262
+      "Maximum_Price": 1573,
+      "Current_Price": 1400,
+      "Minimum_Price": 1266
     },
     {
       "State": "bihar",
@@ -4959,20 +4959,20 @@
     {
       "State": "gujarat",
       "Maximum_Price": 1366,
-      "Current_Price": 1163,
-      "Minimum_Price": 947
+      "Current_Price": 1162,
+      "Minimum_Price": 945
     },
     {
       "State": "haryana",
-      "Maximum_Price": 843,
-      "Current_Price": 712,
-      "Minimum_Price": 625
+      "Maximum_Price": 842,
+      "Current_Price": 711,
+      "Minimum_Price": 624
     },
     {
       "State": "himachal-pradesh",
-      "Maximum_Price": 1244,
+      "Maximum_Price": 1240,
       "Current_Price": 1034,
-      "Minimum_Price": 856
+      "Minimum_Price": 851
     },
     {
       "State": "jharkhand",
@@ -4996,13 +4996,13 @@
       "State": "madhya-pradesh",
       "Maximum_Price": 815,
       "Current_Price": 728,
-      "Minimum_Price": 639
+      "Minimum_Price": 638
     },
     {
       "State": "maharashtra",
-      "Maximum_Price": 1369,
-      "Current_Price": 1138,
-      "Minimum_Price": 912
+      "Maximum_Price": 1381,
+      "Current_Price": 1146,
+      "Minimum_Price": 917
     },
     {
       "State": "manipur",
@@ -5030,9 +5030,9 @@
     },
     {
       "State": "odisha",
-      "Maximum_Price": 1648,
-      "Current_Price": 1524,
-      "Minimum_Price": 1415
+      "Maximum_Price": 1638,
+      "Current_Price": 1511,
+      "Minimum_Price": 1404
     },
     {
       "State": "punjab",
@@ -5060,13 +5060,13 @@
     },
     {
       "State": "tripura",
-      "Maximum_Price": 1632,
-      "Current_Price": 1521,
-      "Minimum_Price": 1416
+      "Maximum_Price": 1625,
+      "Current_Price": 1516,
+      "Minimum_Price": 1414
     },
     {
       "State": "uttar-pradesh",
-      "Maximum_Price": 685,
+      "Maximum_Price": 684,
       "Current_Price": 650,
       "Minimum_Price": 617
     },
