@@ -5090,9 +5090,9 @@
     },
     {
       "State": "bihar",
-      "Current_Price": 1072.28,
+      "Current_Price": 974.89,
       "Minimum_Price": 876.94,
-      "Maximum_Price": 1371.28
+      "Maximum_Price": 1062.94
     },
     {
       "State": "chandigarh",
@@ -5120,15 +5120,15 @@
     },
     {
       "State": "haryana",
-      "Current_Price": 816.76,
-      "Minimum_Price": 582.33,
-      "Maximum_Price": 1748.46
+      "Current_Price": 703.17,
+      "Minimum_Price": 607.33,
+      "Maximum_Price": 873.46
     },
     {
       "State": "himachal-pradesh",
-      "Current_Price": 1123.64,
-      "Minimum_Price": 799.67,
-      "Maximum_Price": 1520.5
+      "Current_Price": 1161.92,
+      "Minimum_Price": 974.67,
+      "Maximum_Price": 1345.5
     },
     {
       "State": "jammu-and-kashmir",
@@ -5186,9 +5186,9 @@
     },
     {
       "State": "nagaland",
-      "Current_Price": 2110.62,
-      "Minimum_Price": 1995.5,
-      "Maximum_Price": 2210.25
+      "Current_Price": 1787.5,
+      "Minimum_Price": 1720.5,
+      "Maximum_Price": 1855.25
     },
     {
       "State": "odisha",
@@ -5198,9 +5198,9 @@
     },
     {
       "State": "punjab",
-      "Current_Price": 609.34,
-      "Minimum_Price": 418.92,
-      "Maximum_Price": 792.5
+      "Current_Price": 614.31,
+      "Minimum_Price": 516.42,
+      "Maximum_Price": 692.5
     },
     {
       "State": "rajasthan",
@@ -5222,20 +5222,20 @@
     },
     {
       "State": "tripura",
-      "Current_Price": 1595.5,
+      "Current_Price": 1489.25,
       "Minimum_Price": 1387.38,
-      "Maximum_Price": 1888.75
+      "Maximum_Price": 1588.75
     },
     {
       "State": "uttar-pradesh",
-      "Current_Price": 642.66,
-      "Minimum_Price": 534.24,
-      "Maximum_Price": 924.87
+      "Current_Price": 589.12,
+      "Minimum_Price": 559.24,
+      "Maximum_Price": 623.29
     },
     {
       "State": "uttrakhand",
-      "Current_Price": 828.44,
-      "Minimum_Price": 617.67,
+      "Current_Price": 834.0,
+      "Minimum_Price": 624.33,
       "Maximum_Price": 1076.67
     },
     {

@@ -4933,9 +4933,9 @@
       "State": "assam"
     },
     {
-      "Current_Price": 1054.67,
+      "Current_Price": 762.5,
       "Minimum_Price": 600.0,
-      "Maximum_Price": 1800.0,
+      "Maximum_Price": 875.0,
       "State": "bihar"
     },
     {
@@ -4963,15 +4963,15 @@
       "State": "gujarat"
     },
     {
-      "Current_Price": 904.35,
-      "Minimum_Price": 300.0,
-      "Maximum_Price": 4000.0,
+      "Current_Price": 450.0,
+      "Minimum_Price": 400.0,
+      "Maximum_Price": 500.0,
       "State": "haryana"
     },
     {
-      "Current_Price": 1171.88,
-      "Minimum_Price": 500.0,
-      "Maximum_Price": 2200.0,
+      "Current_Price": 1325.0,
+      "Minimum_Price": 1200.0,
+      "Maximum_Price": 1500.0,
       "State": "himachal-pradesh"
     },
     {
@@ -5023,9 +5023,9 @@
       "State": "mizoram"
     },
     {
-      "Current_Price": 2392.5,
-      "Minimum_Price": 2100.0,
-      "Maximum_Price": 2620.0,
+      "Current_Price": 1100.0,
+      "Minimum_Price": 1000.0,
+      "Maximum_Price": 1200.0,
       "State": "nagaland"
     },
     {
@@ -5035,9 +5035,9 @@
       "State": "odisha"
     },
     {
-      "Current_Price": 633.46,
-      "Minimum_Price": 20.0,
-      "Maximum_Price": 1200.0,
+      "Current_Price": 653.33,
+      "Minimum_Price": 410.0,
+      "Maximum_Price": 800.0,
       "State": "punjab"
     },
     {
@@ -5059,20 +5059,20 @@
       "State": "telangana"
     },
     {
-      "Current_Price": 1625.0,
+      "Current_Price": 1200.0,
       "Minimum_Price": 1100.0,
-      "Maximum_Price": 2500.0,
+      "Maximum_Price": 1300.0,
       "State": "tripura"
     },
     {
-      "Current_Price": 664.13,
-      "Minimum_Price": 300.0,
-      "Maximum_Price": 1706.31,
+      "Current_Price": 450.0,
+      "Minimum_Price": 400.0,
+      "Maximum_Price": 500.0,
       "State": "uttar-pradesh"
     },
     {
-      "Current_Price": 733.33,
-      "Minimum_Price": 400.0,
+      "Current_Price": 750.0,
+      "Minimum_Price": 420.0,
       "Maximum_Price": 1200.0,
       "State": "uttrakhand"
     },
