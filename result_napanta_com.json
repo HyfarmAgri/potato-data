@@ -4922,21 +4922,21 @@
   "2026-06-28": [
     {
       "State": "andhra-pradesh",
-      "Maximum_Price": 1500,
-      "Current_Price": 1300,
-      "Minimum_Price": 1000
+      "Maximum_Price": 2000,
+      "Current_Price": 1800,
+      "Minimum_Price": 1600
     },
     {
       "State": "assam",
-      "Maximum_Price": 1360,
-      "Current_Price": 1194,
-      "Minimum_Price": 1068
+      "Maximum_Price": 1349,
+      "Current_Price": 1185,
+      "Minimum_Price": 1062
     },
     {
       "State": "bihar",
-      "Maximum_Price": 1208,
-      "Current_Price": 1137,
-      "Minimum_Price": 1063
+      "Maximum_Price": 1206,
+      "Current_Price": 1136,
+      "Minimum_Price": 1062
     },
     {
       "State": "chandigarh",
@@ -4958,21 +4958,21 @@
     },
     {
       "State": "gujarat",
-      "Maximum_Price": 1493,
-      "Current_Price": 1254,
-      "Minimum_Price": 1016
+      "Maximum_Price": 1492,
+      "Current_Price": 1257,
+      "Minimum_Price": 1022
     },
     {
       "State": "haryana",
-      "Maximum_Price": 954,
-      "Current_Price": 809,
-      "Minimum_Price": 728
+      "Maximum_Price": 956,
+      "Current_Price": 810,
+      "Minimum_Price": 729
     },
     {
       "State": "himachal-pradesh",
-      "Maximum_Price": 1426,
-      "Current_Price": 1238,
-      "Minimum_Price": 1014
+      "Maximum_Price": 1442,
+      "Current_Price": 1255,
+      "Minimum_Price": 1033
     },
     {
       "State": "jharkhand",
@@ -5000,8 +5000,8 @@
     },
     {
       "State": "maharashtra",
-      "Maximum_Price": 1425,
-      "Current_Price": 1208,
+      "Maximum_Price": 1420,
+      "Current_Price": 1206,
       "Minimum_Price": 984
     },
     {
@@ -5030,9 +5030,9 @@
     },
     {
       "State": "odisha",
-      "Maximum_Price": 1734,
-      "Current_Price": 1613,
-      "Minimum_Price": 1491
+      "Maximum_Price": 1738,
+      "Current_Price": 1617,
+      "Minimum_Price": 1495
     },
     {
       "State": "punjab",
@@ -5054,21 +5054,21 @@
     },
     {
       "State": "telangana",
-      "Maximum_Price": 1746,
-      "Current_Price": 1580,
-      "Minimum_Price": 1450
+      "Maximum_Price": 1729,
+      "Current_Price": 1563,
+      "Minimum_Price": 1433
     },
     {
       "State": "tripura",
-      "Maximum_Price": 1639,
-      "Current_Price": 1540,
-      "Minimum_Price": 1445
+      "Maximum_Price": 1647,
+      "Current_Price": 1549,
+      "Minimum_Price": 1455
     },
     {
       "State": "uttar-pradesh",
-      "Maximum_Price": 716,
-      "Current_Price": 698,
-      "Minimum_Price": 678
+      "Maximum_Price": 715,
+      "Current_Price": 697,
+      "Minimum_Price": 676
     },
     {
       "State": "uttrakhand",
