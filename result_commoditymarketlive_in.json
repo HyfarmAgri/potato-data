@@ -5168,9 +5168,9 @@
     },
     {
       "State": "kerala",
-      "Minimum_Price": 2950.0,
-      "Maximum_Price": 3416.67,
-      "Current_Price": 3233.33
+      "Minimum_Price": 2200.0,
+      "Maximum_Price": 2600.0,
+      "Current_Price": 2400.0
     },
     {
       "State": "madhya-pradesh",
@@ -5210,9 +5210,9 @@
     },
     {
       "State": "nagaland",
-      "Minimum_Price": 3000.0,
-      "Maximum_Price": 3000.0,
-      "Current_Price": 3000.0
+      "Minimum_Price": 2300.0,
+      "Maximum_Price": 2600.0,
+      "Current_Price": 2400.0
     },
     {
       "State": "odisha",
@@ -5258,9 +5258,9 @@
     },
     {
       "State": "uttrakhand",
-      "Minimum_Price": 669.75,
-      "Maximum_Price": 950.0,
-      "Current_Price": 819.38
+      "Minimum_Price": 1000.0,
+      "Maximum_Price": 1400.0,
+      "Current_Price": 1200.0
     },
     {
       "State": "west-bengal",
