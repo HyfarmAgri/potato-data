@@ -5120,21 +5120,21 @@
     },
     {
       "State": "chandigarh",
-      "Minimum_Price": 400.0,
-      "Maximum_Price": 1000.0,
-      "Current_Price": 800.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "chattisgarh",
-      "Minimum_Price": 1000.0,
-      "Maximum_Price": 1300.0,
-      "Current_Price": 1200.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "delhi",
-      "Minimum_Price": 600.0,
-      "Maximum_Price": 1200.0,
-      "Current_Price": 900.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "gujarat",
