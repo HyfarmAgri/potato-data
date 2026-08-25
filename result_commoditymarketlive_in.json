@@ -5114,9 +5114,9 @@
     },
     {
       "State": "bihar",
-      "Minimum_Price": 1170.0,
-      "Maximum_Price": 1305.0,
-      "Current_Price": 1235.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "chandigarh",
@@ -5198,9 +5198,9 @@
     },
     {
       "State": "meghalaya",
-      "Minimum_Price": 1850.0,
-      "Maximum_Price": 2350.0,
-      "Current_Price": 2100.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "mizoram",

@@ -5096,9 +5096,9 @@
     },
     {
       "State": "bihar",
-      "Current_Price": 1234.59,
-      "Minimum_Price": 1048.33,
-      "Maximum_Price": 1405.33
+      "Current_Price": 1234.39,
+      "Minimum_Price": 987.5,
+      "Maximum_Price": 1455.5
     },
     {
       "State": "chandigarh",
@@ -5180,9 +5180,9 @@
     },
     {
       "State": "meghalaya",
-      "Current_Price": 2018.22,
-      "Minimum_Price": 1516.67,
-      "Maximum_Price": 2646.0
+      "Current_Price": 1977.34,
+      "Minimum_Price": 1350.0,
+      "Maximum_Price": 2794.0
     },
     {
       "State": "mizoram",
