@@ -5038,13 +5038,13 @@
       "State": "punjab",
       "Maximum_Price": 796,
       "Current_Price": 742,
-      "Minimum_Price": 690
+      "Minimum_Price": 689
     },
     {
       "State": "rajasthan",
-      "Maximum_Price": 1087,
-      "Current_Price": 905,
-      "Minimum_Price": 785
+      "Maximum_Price": 1090,
+      "Current_Price": 912,
+      "Minimum_Price": 792
     },
     {
       "State": "tamil-nadu",
@@ -5060,9 +5060,9 @@
     },
     {
       "State": "tripura",
-      "Maximum_Price": 1728,
-      "Current_Price": 1624,
-      "Minimum_Price": 1529
+      "Maximum_Price": 1731,
+      "Current_Price": 1625,
+      "Minimum_Price": 1528
     },
     {
       "State": "uttar-pradesh",
