@@ -5072,15 +5072,15 @@
     },
     {
       "State": "uttrakhand",
-      "Maximum_Price": 0,
-      "Current_Price": 0,
-      "Minimum_Price": 0
+      "Maximum_Price": 1130,
+      "Current_Price": 1002,
+      "Minimum_Price": 873
     },
     {
       "State": "west-bengal",
-      "Maximum_Price": 0,
-      "Current_Price": 0,
-      "Minimum_Price": 0
+      "Maximum_Price": 794,
+      "Current_Price": 767,
+      "Minimum_Price": 744
     }
   ]
 }
