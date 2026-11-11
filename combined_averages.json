@@ -5132,9 +5132,9 @@
     },
     {
       "State": "haryana",
-      "Current_Price": 868.32,
-      "Minimum_Price": 538.18,
-      "Maximum_Price": 1804.69
+      "Current_Price": 879.21,
+      "Minimum_Price": 592.22,
+      "Maximum_Price": 1728.0
     },
     {
       "State": "himachal-pradesh",
@@ -5162,14 +5162,14 @@
     },
     {
       "State": "kerala",
-      "Current_Price": 3080.92,
-      "Minimum_Price": 2539.59,
-      "Maximum_Price": 3765.3
+      "Current_Price": 3174.1,
+      "Minimum_Price": 2486.75,
+      "Maximum_Price": 3954.5
     },
     {
       "State": "madhya-pradesh",
       "Current_Price": 847.0,
-      "Minimum_Price": 596.9,
+      "Minimum_Price": 596.91,
       "Maximum_Price": 1159.85
     },
     {
@@ -5210,9 +5210,9 @@
     },
     {
       "State": "punjab",
-      "Current_Price": 668.7,
-      "Minimum_Price": 450.41,
-      "Maximum_Price": 1019.69
+      "Current_Price": 680.93,
+      "Minimum_Price": 473.85,
+      "Maximum_Price": 1022.0
     },
     {
       "State": "rajasthan",
@@ -5222,15 +5222,15 @@
     },
     {
       "State": "tamil-nadu",
-      "Current_Price": 3579.71,
-      "Minimum_Price": 2887.81,
-      "Maximum_Price": 3772.44
+      "Current_Price": 3631.24,
+      "Minimum_Price": 2934.81,
+      "Maximum_Price": 3856.52
     },
     {
       "State": "telangana",
-      "Current_Price": 1727.38,
-      "Minimum_Price": 1365.67,
-      "Maximum_Price": 2115.92
+      "Current_Price": 1717.38,
+      "Minimum_Price": 1389.0,
+      "Maximum_Price": 2069.25
     },
     {
       "State": "tripura",
@@ -5246,15 +5246,15 @@
     },
     {
       "State": "uttrakhand",
-      "Current_Price": 823.17,
-      "Minimum_Price": 646.83,
-      "Maximum_Price": 945.0
+      "Current_Price": 917.33,
+      "Minimum_Price": 707.67,
+      "Maximum_Price": 1093.33
     },
     {
       "State": "west-bengal",
-      "Current_Price": 786.8,
-      "Minimum_Price": 649.14,
-      "Maximum_Price": 1141.94
+      "Current_Price": 857.11,
+      "Minimum_Price": 711.33,
+      "Maximum_Price": 1219.33
     }
   ]
 }
