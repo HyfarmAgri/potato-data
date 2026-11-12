@@ -5096,15 +5096,15 @@
     },
     {
       "State": "assam",
-      "Current_Price": 1294.25,
-      "Minimum_Price": 1077.0,
+      "Current_Price": 1303.0,
+      "Minimum_Price": 1089.5,
       "Maximum_Price": 1666.75
     },
     {
       "State": "bihar",
-      "Current_Price": 1232.87,
-      "Minimum_Price": 1054.67,
-      "Maximum_Price": 1391.63
+      "Current_Price": 1294.26,
+      "Minimum_Price": 1109.67,
+      "Maximum_Price": 1460.33
     },
     {
       "State": "chandigarh",
@@ -5132,15 +5132,15 @@
     },
     {
       "State": "haryana",
-      "Current_Price": 879.21,
+      "Current_Price": 904.21,
       "Minimum_Price": 592.22,
-      "Maximum_Price": 1728.0
+      "Maximum_Price": 1778.0
     },
     {
       "State": "himachal-pradesh",
-      "Current_Price": 1360.24,
-      "Minimum_Price": 813.46,
-      "Maximum_Price": 1849.96
+      "Current_Price": 1497.74,
+      "Minimum_Price": 875.0,
+      "Maximum_Price": 1911.5
     },
     {
       "State": "jammu-and-kashmir",
@@ -5162,8 +5162,8 @@
     },
     {
       "State": "kerala",
-      "Current_Price": 3174.1,
-      "Minimum_Price": 2486.75,
+      "Current_Price": 3211.6,
+      "Minimum_Price": 2611.75,
       "Maximum_Price": 3954.5
     },
     {
@@ -5210,9 +5210,9 @@
     },
     {
       "State": "punjab",
-      "Current_Price": 680.93,
-      "Minimum_Price": 473.85,
-      "Maximum_Price": 1022.0
+      "Current_Price": 699.68,
+      "Minimum_Price": 492.6,
+      "Maximum_Price": 1040.75
     },
     {
       "State": "rajasthan",
@@ -5234,9 +5234,9 @@
     },
     {
       "State": "tripura",
-      "Current_Price": 1627.44,
-      "Minimum_Price": 1419.33,
-      "Maximum_Price": 1967.88
+      "Current_Price": 1569.11,
+      "Minimum_Price": 1379.75,
+      "Maximum_Price": 1889.75
     },
     {
       "State": "uttar-pradesh",
@@ -5246,7 +5246,7 @@
     },
     {
       "State": "uttrakhand",
-      "Current_Price": 917.33,
+      "Current_Price": 900.67,
       "Minimum_Price": 707.67,
       "Maximum_Price": 1093.33
     },
